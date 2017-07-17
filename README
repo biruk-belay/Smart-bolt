@@ -1,5 +1,5 @@
 This project contains 
-1. TI-RTOS/CCS based firmware of a CC1310 micro-controller. The firmware includes the implementation of a transmitter and a receiver on cc1310. The firmware is used to measure the wake time of the radio & total transmission time of packets at different transmission power and modulations (GFSK & OOK).
+1. TI-RTOS/CCS based firmware of a CC1310 micro-controller. The firmware is an extension of an example project provided in code composer studio and it includes the implementation of a transmitter and a receiver on cc1310. The firmware is used to measure the wake time of the radio & total transmission time of packets at different transmission power and modulations (GFSK & OOK).
 
 2. Different plots that were generated from the data collected by varying the parameters mentioned in 1.
 
